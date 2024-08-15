@@ -1,0 +1,1 @@
+<li><span class="dropdown-item">{{ $slot }}</span></li>
